@@ -1,0 +1,19 @@
+{
+  "name": "dot_chat",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "14.15.4"
+  },
+  "author": "b2b",
+  "license": "MIT"
+}
